@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 171/63/SBT Thầy NTTMK: Cho mảng một chiều các số nguyên dương. Hãy viết hàm tìm ước chung lớn nhất của tất cả các phần tử trong mảng.
 
 #include <stdio.h>

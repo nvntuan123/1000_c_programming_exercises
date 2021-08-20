@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 281/77/SBT Thầy NTTMK: Hãy đưa các số chẵn trong mảng về đầu mảng, số lẻ về cuối mảng và các phần tử 0 nằm ở giữa.
 
 #include <stdio.h>

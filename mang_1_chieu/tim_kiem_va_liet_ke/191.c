@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 191/66/SBT Thầy NTTMK: Hãy liệt kê các giá trị cực đại trong mảng một chiều các số thực. Một phần tử được gọi là cực đại khi lớn hơn
 // các phần tử lân cận.
 

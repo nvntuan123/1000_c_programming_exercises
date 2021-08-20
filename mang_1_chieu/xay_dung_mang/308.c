@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 308/80/SBT Thầy NTTMK: Cho mảng một chiều các số thực a. Hãy tạo mảng b từ mảng a, sao cho mảng b chỉ chứa các giá trị âm.
 
 #include <stdio.h>

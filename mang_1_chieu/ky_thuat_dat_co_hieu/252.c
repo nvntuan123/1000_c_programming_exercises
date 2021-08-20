@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 252/73/SBT Thầy NTTMK: Người ta định nghĩa một mảng được gọi là "dạng sóng" khi phần tử có trị số i lớn hơn hoặc nhỏ hơn hai phần tử xung quanh nó. Hãy viết hàm kiểm tra mảng có dạng sóng hay không ?
 
 #include <stdio.h>

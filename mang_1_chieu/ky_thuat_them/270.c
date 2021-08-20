@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 270/76/SBT Thầy NTTMK: Viết chương trình thực hiện các yêu cầu sau: Nhập mảng n số nguyên từ bàn phím sao cho khi nhập xong các phần tử trong mảng được sắp xếp theo thừ tự tăng dần (nhapbaotoan).
 
 #include <stdio.h>

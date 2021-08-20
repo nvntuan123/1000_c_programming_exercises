@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 185/65/SBT Thầy NTTMK: Hãy liệt kê các vị trí mà giá trị tại vị trí đó là số chính phương trong mảng một chiều các số nguyên.
 
 #include <stdio.h>
@@ -26,7 +30,7 @@ void XuatMang(int n, int a[])
 // Kiểm tra số chính phương.
 int SCP(int a)
 {
-	if (sqrt((double)a) == int (sqrt((double)a)))
+	if (sqrt((double)a) == (int)(sqrt((double)a)))
 	{
 		return 1;
 	}

@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 235/71/SBT Thầy NTTMK: Cho hai mảng a, b. Liệt kê các giá trị chỉ xuất hiện 1 trong 2 mảng.
 
 #include <stdio.h>

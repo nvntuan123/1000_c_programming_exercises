@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 232/71/SBT Thầy NTTMK: Hãy liệt kê các giá trị xuất hiện trong dãy quá một lần. Lưu ý : Mỗi giá trị liệt kê một lần.
 
 #include <stdio.h>

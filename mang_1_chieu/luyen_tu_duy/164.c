@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 164/62/SBT Thầy NTTMK: Cho mảng một chiều các số nguyên hãy viết hàm tìm giá trị đầu tiên trong mảng thỏa tính chất số gánh.(ví dụ:12321).
 
 #include <stdio.h>

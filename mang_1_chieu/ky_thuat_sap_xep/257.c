@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 257/74/SBT Thầy NTTMK: Hãy sắp xếp các giá trị tại các vị trí lẻ trong mảng tăng dần. Các giá trị khác giữ nguyên giá trị và vị trí.
 
 #include <stdio.h>

@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 250/73/SBT Thầy NTTMK: Hãy cho biết các phần tử trong mảng có lập thành cấp số cộng không ? Nếu có hãy chỉ ra công sai d.
 
 #include <stdio.h>

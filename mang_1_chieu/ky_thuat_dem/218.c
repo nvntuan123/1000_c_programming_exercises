@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 218/69/SBT Thầy NTTMK: Đếm số lượng giá trị đối xứng trong mảng các số nguyên.
 
 #include <stdio.h>

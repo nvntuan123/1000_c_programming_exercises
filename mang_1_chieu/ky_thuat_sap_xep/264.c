@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 264/75/SBT Thầy NTTMK: Hãy trộn hai mảng tăng dần lại thành 1 mảng được sắp thứ tự tăng dần. 
 
 #include <stdio.h>

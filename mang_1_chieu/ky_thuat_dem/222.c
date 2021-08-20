@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 222/70/SBT Thầy NTTMK: Hãy đếm số lượng phần tử cùng lớn hơn hoặc nhỏ hơn các phần tử xung quanh.
 
 #include <stdio.h>

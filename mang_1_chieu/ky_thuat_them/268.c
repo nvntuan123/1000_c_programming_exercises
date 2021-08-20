@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 268/76/SBT Thầy NTTMK: Hãy tạo mảng b từ mảng a các giá tri 0, 1 để mảng có tính "tính chẵn lẻ" (taomangchanle).
 
 #include <stdio.h>

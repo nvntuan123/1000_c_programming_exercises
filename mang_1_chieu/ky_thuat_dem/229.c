@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 229/70/SBT Thầy NTTMK: Hãy đếm số lượng các giá trị phân biệt có trong mảng.
 
 #include <stdio.h>

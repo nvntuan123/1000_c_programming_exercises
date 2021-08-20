@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 186/65/SBT Thầy NTTMK: Hãy liệt kê các vị trí trong mảng một chiều các số thực mà giá trị tại các vị trí đó bằng giá trị âm đầu tiên trong mảng.
 
 #include <stdio.h>

@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 204/67/SBT Thầy NTTMK: Tính tổng các giá trị lớn hơn giá trị đứng liền trước nó trong mảng một chiều các số thực.
 
 #include <stdio.h>

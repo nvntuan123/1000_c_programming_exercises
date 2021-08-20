@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 273/76/SBT Thầy NTTMK: Hãy xóa tất cả các số âm trong mảng các số thực.
 
 #include <stdio.h>

@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 138/58/SBT Thầy NTTMK:Tìm "vị trí của giá trị chẵn đầu tiên" trong mảng một chiều các số nguyên.Nếu mảng không có giá trị chẵn thì hàm
 // sẽ trả về -1.
 

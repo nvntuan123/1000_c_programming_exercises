@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 263/75/SBT Thầy NTTMK: Hãy sắp xếp các số dương trong mảng tăng dần, các số âm giảm dần.Vị trí tương đối giữa các số âm và số dương
 // không đổi.
 

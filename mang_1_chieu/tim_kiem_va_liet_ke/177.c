@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 177/64/SBT Thầy NTTMK: Hãy liệt kê các số giá trị trong mảng một chiều các số thực thuộc đoạn [x,y] cho trước.
 
 #include <stdio.h>

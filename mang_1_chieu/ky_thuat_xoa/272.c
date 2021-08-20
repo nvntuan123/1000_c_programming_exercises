@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 272/76/SBT Thầy NTTMK: Hãy xóa tất cả số lớn nhất trong mảng các số thực.
 
 #include <stdio.h>

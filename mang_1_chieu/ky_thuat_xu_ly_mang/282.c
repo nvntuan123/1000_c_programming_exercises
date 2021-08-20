@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 282/77/SBT Thầy NTTMK: Hãy đưa các số chia hết cho 3 về đầu mảng.
 
 #include <stdio.h>

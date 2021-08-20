@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 258/74/SBT Thầy NTTMK: Hãy sắp xếp các số hoàn thiện trong mảng các số nguyên giảm dần, các giá trị khác giữ nguyên giá trị và vị trí.
 
 #include <stdio.h>

@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 178/64/SBT Thầy NTTMK: Hãy liệt kê các số giá trị chẵn trong mảng một chiều các số nguyên thuộc đoạn [x,y] cho trước (x,y là các số nguyên ).
 
 #include <stdio.h>

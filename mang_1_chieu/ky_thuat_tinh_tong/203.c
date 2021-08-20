@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 203/67/SBT Thầy NTTMK: Tính tổng các giá trị có chữ số hàng chục là chữ số 5 có trong mảng một chiều các số nguyên.
 
 #include <stdio.h>

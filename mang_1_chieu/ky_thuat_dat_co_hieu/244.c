@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 244/73/SBT Thầy NTTMK: Hãy kiểm tra mảng số nguyên có thỏa mãn tính chất sau không : "Mảng không có tồn tại số hoàn thiện lớn hơn 256". Nếu thỏa trả về 1,nếu không trả về 0.
 
 #include <stdio.h>

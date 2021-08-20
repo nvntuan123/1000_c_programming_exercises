@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 310/81/SBT Thầy NTTMK: Cho mảng một chiều các số nguyên a. Hãy tạo mảng b từ mảng a, sao cho mảng b chỉ chứa các số nguyên tố trong mảng a.
 
 #include <stdio.h>

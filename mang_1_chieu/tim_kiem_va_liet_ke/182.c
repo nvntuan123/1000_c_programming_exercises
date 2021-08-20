@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 182/65/SBT Thầy NTTMK: Cho mảng một chiều các số thực. Hãy viết hàm liệt kê tất cả các giá trị trong mảng có ít nhất một lân cận trái dấu với nó.
 
 #include <stdio.h>

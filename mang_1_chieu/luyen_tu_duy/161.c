@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 161/62/SBT Thầy NTTMK: Cho mảng một chiều các số nguyên hãy tìm giá trị đầu tiên trong mảng nằm trong khoảng (x,y) cho trước. Nếu mảng
 // không có giá trị thỏa điều kiện trên thì hàm trả về giá trị là x.
 

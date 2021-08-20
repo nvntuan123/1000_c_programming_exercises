@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 277/77/SBT Thầy NTTMK: Hãy xóa tất cả các "số nguyên tố" có trong mảng số nguyên.
 
 #include <stdio.h>

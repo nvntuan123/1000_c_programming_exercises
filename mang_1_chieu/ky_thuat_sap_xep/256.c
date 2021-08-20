@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 256/74/SBT Thầy NTTMK: Hãy sắp xếp các giá trị trong mảng các số nguyên giảm dần.
 
 #include <stdio.h>

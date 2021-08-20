@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 134/58/SBT Thầy NTTMK: Viết hàm tìm "giá trị lớn nhất" trong mảng một chiều các số thực.
 
 #include <stdio.h>

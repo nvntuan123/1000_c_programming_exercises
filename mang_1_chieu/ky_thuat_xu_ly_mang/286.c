@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 286/78/SBT Thầy NTTMK: Hãy "dịch trái xoay vòng" các phần tử trong mảng.
 
 #include <stdio.h>

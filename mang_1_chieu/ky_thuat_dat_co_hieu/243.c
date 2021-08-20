@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 243/72/SBT Thầy NTTMK: Hãy kiểm tra mảng số nguyên có tồn tại số nguyên tố hay không ? Nếu có trả về 1,nếu không trả về 0.
 
 #include <stdio.h>

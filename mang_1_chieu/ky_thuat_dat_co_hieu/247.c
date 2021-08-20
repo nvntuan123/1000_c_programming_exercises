@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 247/73/SBT Thầy NTTMK: Ta định nghĩa một mảng có tính chẵn lẻ, khi tổng của hai phần tử liên tiếp trong mảng luôn luôn là số lẻ. Hãy viết hàm kiểm tra mảng a có tính chẵn lẻ hay không ?
 
 #include <stdio.h>

@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 154/60/SBT Thầy NTTMK:Hãy tìm "vị trí giá trị âm lớn nhất" trong mảng các số thực. Nếu mảng không có giá trị âm thì trả về -1.
 
 #include <stdio.h>

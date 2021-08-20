@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 254/74/SBT Thầy NTTMK: Hãy đếm số lượng giá trị trong mảng thỏa tính chất :"lớn hơn tất cả các giá trị đứng đằng trước nó".
 
 #include <stdio.h>

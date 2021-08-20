@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Cách 2: Bài 155/61/SBT Thầy NTTMK:Hãy tìm giá trị trong mảng các số thực "xa giá trị x nhất".
 
 #include <stdio.h>

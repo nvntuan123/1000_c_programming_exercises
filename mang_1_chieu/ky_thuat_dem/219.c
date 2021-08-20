@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 219/69/SBT Thầy NTTMK Đếm số lần xuất hiện của giá trị x trong mảng một chiều các số thực.
 
 #include <stdio.h>

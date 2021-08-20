@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 288/78/SBT Thầy NTTMK: Hãy xuất các phần tử trong mảng theo yêu cầu: Các phần tử chẵn có màu vàng, các phần tử lẻ có màu trắng.
 
 // 14 vàng 7 trắng.

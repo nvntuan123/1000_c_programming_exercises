@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 211/68/SBT Thầy NTTMK:Tính trung bình cộng các số nguyên tố trong mảng một chiều các số nguyên.
 
 #include <stdio.h>

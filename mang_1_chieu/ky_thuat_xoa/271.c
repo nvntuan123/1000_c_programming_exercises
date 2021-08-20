@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 271/76/SBT Thầy NTTMK: Xóa các phần tử có chỉ số k trong mảng.
 
 #include <stdio.h>

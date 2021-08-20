@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 291/78/SBT Thầy NTTMK: Hãy biến đổi mảng bằng cách thay các giá trị lớn nhất bằng các giá trị nhỏ nhất và ngược lại.
 
 #include <stdio.h>

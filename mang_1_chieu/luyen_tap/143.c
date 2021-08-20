@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 143/59/SBT Thầy NTTMK:Viết hàm tìm "số chẵn đầu tiên" trong mảng một chiều các số nguyên. Nếu mảng không có giá trị chẵn thì hàm sẽ trả về giá trị không chẵn là -1.
 
 #include <stdio.h>

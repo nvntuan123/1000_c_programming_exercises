@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 254/74/SBT Thầy NTTMK: Hãy cho biết tất cả các phần tử trong mảng a có nằm trong mảng b hay không ?
 
 #include <stdio.h>

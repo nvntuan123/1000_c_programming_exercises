@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 279/77/SBT Thầy NTTMK: Hãy xóa tất cả các phần tử có tần suất xuất hiện trong mảng nhiều hơn một lần.
 
 #include <stdio.h>

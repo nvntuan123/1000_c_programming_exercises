@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 289/78/SBT Thầy NTTMK: Hãy xuất mảng theo yêu cầu: Các phần tử chẵn nằm trên một hàng, các phần tử lẻ nằm ở hàng tiếp theo.
 
 #include <stdio.h>

@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 240/72/SBT Thầy NTTMK: Hãy kiểm tra mảng số nguyên có tồn tại giá trị không hay không ? Nếu không tồn tại giá trị không trả về giá trị 0,ngược lại trả về 1.
 
 #include <stdio.h>

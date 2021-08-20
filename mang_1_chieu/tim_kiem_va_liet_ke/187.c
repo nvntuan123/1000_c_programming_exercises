@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 187/65/SBT Thầy NTTMK: Hãy liệt kê các vị trí mà giá trị tại các vị trí đó là giá trị dương nhỏ nhất trong mảng một chiều các số thực.
 
 #include <stdio.h>

@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 136/58/SBT Thầy NTTMK:Tìm "số chẵn cuối cùng" trong mảng một chiều các số nguyên.Nếu mảng không có giá trị chẵn thì trả về giá trị -1.
 
 #include <stdio.h>

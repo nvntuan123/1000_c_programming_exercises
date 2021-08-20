@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 262/75/SBT Thầy NTTMK: Hãy sắp xếp các số chẵn trong mảng các số nguyên tăng dần, các số lẻ cũng tăng dần. Vị trí tương đối giữa các số chẵn và số lẻ không đổi.
 
 #include <stdio.h>

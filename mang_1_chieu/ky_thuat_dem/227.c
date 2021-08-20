@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 227/71/SBT Thầy NTTMK: Hãy xác định số lượng các phần tử kề nhau mà cả hai số trái dấu nhau.
 
 #include <stdio.h>

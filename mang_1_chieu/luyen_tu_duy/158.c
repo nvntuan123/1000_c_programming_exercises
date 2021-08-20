@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 158/61/SBT Thầy NTTMK: Cho mảng một chiều các số thực, hãy tìm giá trị x sao cho đoạn [-x,x] chứa tất cả các giá trị trong mảng.
 
 #include <stdio.h>

@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 162/62/SBT: Cho mảng một chiều các số thực. Hãy viết hàm tìm một vị trí trong mảng thỏa hai điều kiện: Có hai giá trị lân cận và giá trị
 // tại vị trí đó bằng tích hai giá trị lân cận. Nếu như mảng không tồn tại giá trị như vậy thì hàm trả về giá trị -1.
 

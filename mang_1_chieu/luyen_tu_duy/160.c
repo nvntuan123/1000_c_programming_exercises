@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 160/62/SBT Thầy NTTMK: Cho mảng một chiều các số thực hãy viết hàm tìm giá trị âm cuối cùng lớn hơn giá trị -1. Nếu mảng không có giá trị thỏa điều kiện trên thì hàm sẽ trả về giá trị không chẵn là 0.
 
 #include <stdio.h>

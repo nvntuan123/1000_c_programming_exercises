@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 266/75/SBT Thầy NTTMK: Hãy thêm 1 phần tử có giá tri x vào mảng tại vị trí k.
 
 #include <stdio.h>

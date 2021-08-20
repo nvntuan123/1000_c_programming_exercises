@@ -1,3 +1,7 @@
+/* 2016 - Nguyễn Nhật Tuấn.
+Code được viết lúc tôi mới học lập trình C/C++ nên có một số cách chưa được tốt, mong giúp ích được các bạn tham khảo.
+*/
+
 // Bài 276/77/SBT Thầy NTTMK: Hãy thêm một giá trị x vào trong mảng tăng mà vẫn giữ nguyên tính đơn điệu tăng của mảng.
 
 #include <stdio.h>
