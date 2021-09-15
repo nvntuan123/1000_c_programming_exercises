@@ -1,0 +1,87 @@
+Bo test:
+	Nhap vao ngay hien tai : 1
+	Nhap vao thang hien tai : 3
+	Nhap vao nam hien tai : 2020
+	Ngay thang nam truoc do : 29/2/2020
+	Ngay thang nam ke tiep : 2/3/2020
+	*******************************
+	Nhap vao ngay hien tai : 45
+	Nhap vao thang hien tai : 15
+	Nhap vao nam hien tai : 2020
+	=> Nhap sai
+	*******************************
+	Nhap vao ngay hien tai : 45
+	Nhap vao thang hien tai : 3
+	Nhap vao nam hien tai : 2020
+	=> Nhap sai
+	*******************************
+	Nhap vao ngay hien tai : 28
+	Nhap vao thang hien tai : 2
+	Nhap vao nam hien tai : 2016
+	Ngay thang nam truoc do : 27/2/2016
+	Ngay thang nam ke tiep : 29/2/2016
+	*******************************
+	Nhap vao ngay hien tai : 28
+	Nhap vao thang hien tai : 3
+	Nhap vao nam hien tai : 2020
+	Ngay thang nam truoc do : 27/3/2020
+	Ngay thang nam ke tiep : 29/3/2020
+	*******************************
+	Nhap vao ngay hien tai : 1
+	Nhap vao thang hien tai : 9
+	Nhap vao nam hien tai : 2020
+	Ngay thang nam truoc do : 31/8/2020
+	Ngay thang nam ke tiep : 2/9/2020
+	*******************************
+	Nhap vao ngay hien tai: 31
+	Nhap vao thang hien tai: 9
+	Nhap vao nam hien tai: 2020
+	Ngay nhap vao khong hop le! Vui long nhap lai.
+	*******************************
+	Nhap vao ngay hien tai : 30
+	Nhap vao thang hien tai : 10
+	Nhap vao nam hien tai : 2020
+	Ngay thang nam truoc do : 29/10/2020
+	Ngay thang nam ke tiep : 31/10/2020
+	*******************************
+	Nhap vao ngay hien tai : 30
+	Nhap vao thang hien tai : 11
+	Nhap vao nam hien tai : 2020
+	Ngay thang nam truoc do : 29/11/2020
+	Ngay thang nam ke tiep : 1/12/2020
+	*******************************
+	Nhap vao ngay hien tai : 28
+	Nhap vao thang hien tai : 2
+	Nhap vao nam hien tai : 2015
+	Ngay thang nam truoc do : 27/2/2015
+	Ngay thang nam ke tiep : 1/3/2015
+	*******************************
+	Nhap vao ngay hien tai : 30
+	Nhap vao thang hien tai : 6
+	Nhap vao nam hien tai : 2015
+	Ngay thang nam truoc do : 29/6/2015
+	Ngay thang nam ke tiep : 1/7/2015
+	*******************************
+	Nhap vao ngay hien tai : 30
+	Nhap vao thang hien tai : 9
+	Nhap vao nam hien tai : 2015
+	Ngay thang nam truoc do : 29/9/2015
+	Ngay thang nam ke tiep : 1/10/2015
+	*******************************
+	Nhap vao ngay hien tai: 31
+	Nhap vao thang hien tai: 12
+	Nhap vao nam hien tai: 2020
+	Ngay thang nam truoc do: 30/12/2020
+	Ngay thang nam ke tiep: 1/1/2021
+	*******************************
+	Nhap vao ngay hien tai: 1
+	Nhap vao thang hien tai: 1
+	Nhap vao nam hien tai: 2020
+	Ngay thang nam truoc do: 31/12/2019
+	Ngay thang nam ke tiep: 2/1/2020
+	*******************************
+	Nhap vao ngay hien tai: 1
+	Nhap vao thang hien tai: 8
+	Nhap vao nam hien tai: 2021
+	Ngay thang nam truoc do: 31/7/2021
+	Ngay thang nam ke tiep: 2/8/2021
